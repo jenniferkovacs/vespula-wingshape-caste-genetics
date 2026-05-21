@@ -1,0 +1,3 @@
+"effect","term","estimate","std.error","statistic"
+"fixed","Intercept (full sisters)",0.0285578861837159,0.00098626586596982,28.955565805407
+"fixed","relationship = half sisters",0.00117299447467121,0.00056112877368917,2.09041940045116
